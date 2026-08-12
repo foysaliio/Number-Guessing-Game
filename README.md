@@ -48,6 +48,7 @@ The game gives feedback based on the player's guess and updates the webpage dyna
 ```text
 Number Guessing Game/
 │
+├── assets/
 ├── index.html
 ├── style.css
 ├── script.js
