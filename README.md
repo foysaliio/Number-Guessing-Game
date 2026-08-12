@@ -8,6 +8,14 @@ This is a simple number guessing game where the player tries to guess a randomly
 
 The game gives feedback based on the player's guess and updates the webpage dynamically using JavaScript DOM manipulation.
 
+## Live Demo
+
+[Play Number Guessing Game](https://foysaliio.github.io/Number-Guessing-Game/)
+
+## Screenshot
+
+![Number Guessing Game](./assets/foysaliio.github.io_Number-Guessing-Game_.png)
+
 ## Features
 
 • Generates a random number
